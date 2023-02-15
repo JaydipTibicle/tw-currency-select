@@ -18,7 +18,7 @@
   ],
   "dependencies": {
     "angular": "~1.5.8",
-    "bootstrap": "https://github.com/Malkiat-Singh/bootstrap.git#>=5.0.5",
+    "bootstrap": "https://github.com/Malkiat-Singh/bootstrap.git#master",
     "jquery": "~2.1.4",
     "bootstrap-select": "~1.11.2"
   },
