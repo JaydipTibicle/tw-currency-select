@@ -271,7 +271,7 @@ module.exports = {
 	VND: 'VN',
 	BDT: 'BD',
 	NPR: 'NP',
-    AFN: 'AF'
+	AFN: 'AF'
 };
 
 },{}],6:[function(require,module,exports){
