@@ -270,7 +270,8 @@ module.exports = {
 	KRW: 'KR',
 	VND: 'VN',
 	BDT: 'BD',
-	NPR: 'NP'
+	NPR: 'NP',
+    AFN: 'AF'
 };
 
 },{}],6:[function(require,module,exports){
